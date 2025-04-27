@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8D6E63</color>         <!-- Medium Brown -->
+    <color name="colorPrimaryDark">#5D4037</color>     <!-- Dark Brown -->
+    <color name="colorAccent">#D7CCC8</color>          <!-- Light Brown -->
+    <color name="colorBackground">#EFEBE9</color>      <!-- Very Light Brown -->
+    <color name="colorHeaderBackground">#D7CCC8</color> <!-- Light Brown -->
+    <color name="colorHeaderText">#3E2723</color>      <!-- Very Dark Brown -->
+    <color name="colorOutOfStock">#FFCCBC</color>      <!-- Light Red-Brown -->
+    <color name="textOutOfStock">#BF360C</color>       <!-- Reddish Brown -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
